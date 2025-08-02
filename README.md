@@ -5,7 +5,7 @@
 
 
 Information Science Student | Full Stack Developer | AI Enthusiast
-👋
+
 ⚙️ I’m a tech explorer passionate about building full-stack and AI-driven applications that solve real-world problems.
 
 
@@ -17,8 +17,6 @@ Information Science Student | Full Stack Developer | AI Enthusiast
 ---
 
 💻 **Tech Stack:**
-
-💻 **Tech Stack**
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,fastapi,flutter,python,js,c,cpp,mongodb,mysql,git,github,vscode,figma" />
@@ -34,3 +32,13 @@ Information Science Student | Full Stack Developer | AI Enthusiast
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananyaashettyy&theme=default" />
 </p>
+
+---
+
+ 🌍 **Connect with Me:**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananyaashettyy)  
+[![Instagram](https://img.shields.io/badge/Instagram-@yourhandle-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__.ananyashetty.__)  
+[![Twitter](https://img.shields.io/badge/Twitter-@ananyaashettyy-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ananyaashettyy)
+
+
