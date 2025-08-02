@@ -14,10 +14,12 @@ Information Science Student | Full Stack Developer | AI Enthusiast
 
 💻 **Tech Stack:**
 
-- React.js, FastAPI, Flutter  
-- Python, JavaScript, C, C++  
-- MongoDB, SQL  
-- Git, GitHub, VS Code, Figma
+💻 **Tech Stack**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,fastapi,flutter,python,js,c,cpp,mongodb,mysql,git,github,vscode,figma" />
+</p>
+
 
 ---
 
