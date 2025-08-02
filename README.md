@@ -4,7 +4,7 @@
 </p>
 
 
-Information Science Student | Full Stack Developer | AI Enthusiast
+<p align="center">Information Science Student | Full Stack Developer | AI Enthusiast</p>
 
 ⚙️ I’m a tech explorer passionate about building full-stack and AI-driven applications that solve real-world problems.
 
