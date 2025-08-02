@@ -1,4 +1,5 @@
-# 👋 Hey folks, I'm Ananya R Shetty
+# [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm Ananya R Shetty"/>](https://raymond.li/)
+
 
 Information Science Student | Full Stack Developer | AI Enthusiast
 
