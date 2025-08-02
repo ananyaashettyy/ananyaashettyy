@@ -1,8 +1,10 @@
-# [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm Ananya R Shetty"/>](https://raymond.li/)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" alt="molecular banner" />
+</p>
 
 
 Information Science Student | Full Stack Developer | AI Enthusiast
-
+👋
 ⚙️ I’m a tech explorer passionate about building full-stack and AI-driven applications that solve real-world problems.
 
 
