@@ -1,8 +1,10 @@
-[<img src="https://raw.githubusercontent.com/ananyaashettyy/ananyaashettyy/main/13495-248644905_medium.gif" 
-alt="Hi, I'm Ananya R Shetty" 
-title="Hi, I'm Ananya R Shetty" 
-width="100%" height="220px" />](https://github.com/ananyaashettyy)
-
+<p align="center" style="position: relative; display: inline-block; text-align: center;">
+  <img src="https://raw.githubusercontent.com/ananyaashettyy/ananyaashettyy/main/13495-248644905_medium.gif" width="100%" height="220px" />
+  <strong style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
+   color: white; font-size: 28px; font-family: sans-serif; text-shadow: 1px 1px 4px black;">
+    Hi, I'm Ananya R Shetty
+  </strong>
+</p>
 
 
 Information Science Student | Full Stack Developer | AI Enthusiast
