@@ -11,9 +11,6 @@ Information Science Student | Full Stack Developer | AI Enthusiast
 
 🤝 Open to collaborations, internships, and innovative project ideas.
 
-🌐 Connect with me:  
-[LinkedIn](https://www.linkedin.com/in/ananyaashettyy)
-
 ---
 
 💻 **Tech Stack:**
