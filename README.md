@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ananyaashettyy/ananyaashettyy/main/13495-248644905_medium.gif" alt="Molecular Banner" width="100%" height="250px" />
+  <img src="https://raw.githubusercontent.com/ananyaashettyy/ananyaashettyy/main/13495-248644905_medium.gif" alt="Molecular Banner" width="100%" height="220px" />
 </p>
 
 
