@@ -1,7 +1,10 @@
+<p align="center" style="color: white; font-size: 28px; font-weight: bold; margin-bottom: -20px;">
+  Hi...I'm Ananya R Shetty
+</p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/ananyaashettyy/ananyaashettyy/main/13495-248644905_medium.gif" alt="Molecular Banner" width="100%" height="220px" />
 </p>
-
 
 
 
