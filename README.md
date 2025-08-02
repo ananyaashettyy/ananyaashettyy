@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" alt="molecular banner" />
+  <img src="https://raw.githubusercontent.com/ananyaashettyy/ananyaashettyy/main/13495-248644905_medium.gif" alt="Molecular Banner" width="100%" />
 </p>
+
 
 
 Information Science Student | Full Stack Developer | AI Enthusiast
