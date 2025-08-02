@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hey folks, I'm Ananya R Shetty
 
-<!--
-**ananyaashettyy/ananyaashettyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Information Science Student | Full Stack Developer | AI Enthusiast
 
-Here are some ideas to get you started:
+⚙️ I’m a tech explorer passionate about building full-stack and AI-driven applications that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🤝 Open to collaborations, internships, and innovative project ideas.
+
+🌐 Connect with me:  
+[LinkedIn](https://www.linkedin.com/in/ananyaashettyy)
+
+---
+
+💻 **Tech Stack:**
+
+- React.js, FastAPI, Flutter  
+- Python, JavaScript, C, C++  
+- MongoDB, SQL  
+- Git, GitHub, VS Code, Figma
+
+---
+
+📊 **GitHub Stats:**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ananyaashettyy&show_icons=true&theme=default" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananyaashettyy&theme=default" />
+</p>
