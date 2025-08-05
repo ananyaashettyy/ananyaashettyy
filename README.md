@@ -48,7 +48,3 @@
   </a>
 </p>
 
-### GitHub Contribution Snake
-
-![snake gif](https://github.com/ananyaashettyy/ananyaashettyy/blob/output/github-contribution-grid-snake.svg)
-
