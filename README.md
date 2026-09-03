@@ -180,36 +180,6 @@ mission:
 
 <div align="center">
 
-<h1>🛰️ LEARNING ROADMAP</h1>
-
-</div>
-
-<pre>
-        🌐 NETWORKING
-              │
-              ▼
-       ☁️ CLOUD COMPUTING
-              │
-              ▼
-      ⚙️ DEVOPS & AUTOMATION
-              │
-              ▼
-       🤖 GENERATIVE AI
-              │
-              ▼
-        🧠 AGENTIC AI
-              │
-              ▼
-            📊 AIOPS
-              │
-              ▼
-        🚀 INTELLIGENT OPS
-</pre>
-
-<hr/>
-
-<div align="center">
-
 <h1>🏆 GITHUB TROPHIES</h1>
 
 <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=ananyaashettyy&theme=algolia&no-frame=true&row=1&column=6&margin-w=8"/>
