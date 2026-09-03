@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=220&section=header&text=Hey%2C%20I%27m%20Ananya%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Cloud%20%26%20AI%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<img alt="Header: Hey, I'm Ananya" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=220&section=header&text=Hey%2C%20I%27m%20Ananya%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Cloud%20%26%20AI%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=650&lines=Building%20full-stack%20%2B%20AI-driven%20apps%20%F0%9F%9A%80;Exploring%20Agentic%20AI%20%26%20AIOps%20%F0%9F%A4%96;Cloud-native%20%7C%20DevOps%20%7C%20LangChain;Open%20to%20internships%20%26%20collabs%20%E2%9C%A8" />
+  <img alt="Typing: Building full-stack + AI-driven apps" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=650&lines=Building%20full-stack%20%2B%20AI-driven%20apps%20%F0%9F%9A%80;Exploring%20Agentic%20AI%20%26%20AIOps%20%F0%9F%A4%96;Cloud-native%20%7C%20DevOps%20%7C%20LangChain;Open%20to%20internships%20%26%20collabs%20%E2%9C%A8" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/📍_India-Information_Science_Student-6C63FF?style=for-the-badge&labelColor=1a1a2e" />
-<img src="https://komarev.com/ghpvc/?username=ananyaashettyy&style=for-the-badge&color=00C9A7&label=Profile+Views&labelColor=1a1a2e" />
+<img alt="Location: India - Information Science Student" src="https://img.shields.io/badge/📍_India-Information_Science_Student-6C63FF?style=for-the-badge&labelColor=1a1a2e" />
+<img alt="Profile Views" src="https://komarev.com/ghpvc/?username=ananyaashettyy&style=for-the-badge&color=00C9A7&label=Profile+Views&labelColor=1a1a2e" />
 
 </div>
 
@@ -37,7 +37,7 @@ side_quest: "Runs a YouTube channel for career tips"
 </td>
 <td valign="top" width="45%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ananyaashettyy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00C9A7&count_private=true" width="100%"/>
+<img alt="GitHub readme stats for ananyaashettyy" src="https://github-readme-stats.vercel.app/api?username=ananyaashettyy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00C9A7&count_private=true" width="100%"/>
 
 </td>
 </tr>
@@ -49,21 +49,21 @@ side_quest: "Runs a YouTube channel for career tips"
 
 ## 🛠️ Tech Arsenal
 
-<img src="https://img.shields.io/badge/Languages_&_Frameworks-6C63FF?style=flat-square&labelColor=1a1a2e&color=1a1a2e"/>
+<img alt="Languages & Frameworks badge" src="https://img.shields.io/badge/Languages_&_Frameworks-6C63FF?style=flat-square&labelColor=1a1a2e&color=1a1a2e"/>
 <br/>
-<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,express,fastapi&theme=dark"/>
+<img alt="Skill icons: python, js, react, nodejs, express, fastapi" src="https://skillicons.dev/icons?i=python,js,react,nodejs,express,fastapi&theme=dark"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Cloud_&_DevOps-00C9A7?style=flat-square&labelColor=1a1a2e&color=1a1a2e"/>
+<img alt="Cloud & DevOps badge" src="https://img.shields.io/badge/Cloud_&_DevOps-00C9A7?style=flat-square&labelColor=1a1a2e&color=1a1a2e"/>
 <br/>
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform&theme=dark"/>
+<img alt="Cloud icons: aws, azure, gcp, docker, kubernetes, terraform" src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform&theme=dark"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Data_&_Tools-FF6584?style=flat-square&labelColor=1a1a2e&color=1a1a2e"/>
+<img alt="Data & Tools badge" src="https://img.shields.io/badge/Data_&_Tools-FF6584?style=flat-square&labelColor=1a1a2e&color=1a1a2e"/>
 <br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,linux,vscode&theme=dark"/>
+<img alt="Data tools icons: mongodb, mysql, git, github, linux, vscode" src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,linux,vscode&theme=dark"/>
 
 </div>
 
@@ -73,11 +73,11 @@ side_quest: "Runs a YouTube channel for career tips"
 
 ## 🔥 GitHub Activity
 
-<img src="https://streak-stats.demolab.com/?user=ananyaashettyy&theme=radical&hide_border=true&background=0D1117" />
+<img alt="Streak stats" src="https://streak-stats.demolab.com/?user=ananyaashettyy&theme=radical&hide_border=true&background=0D1117" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ananyaashettyy&theme=react-dark&hide_border=true&bg_color=0D1117&color=00C9A7&line=6C63FF&point=FF6584" width="100%"/>
+<img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ananyaashettyy&theme=react-dark&hide_border=true&bg_color=0D1117&color=00C9A7&line=6C63FF&point=FF6584" width="100%"/>
 
 </div>
 
@@ -86,12 +86,12 @@ side_quest: "Runs a YouTube channel for career tips"
 ## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ananyaashettyy/ananyaashettyy/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ananyaashettyy/ananyaashettyy/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/ananyaashettyy/ananyaashettyy/output/github-contribution-grid-snake.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ananyaashettyy/ananyaashettyy/main/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ananyaashettyy/ananyaashettyy/main/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/ananyaashettyy/ananyaashettyy/main/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 
-<sub>✨ Powered by <a href="https://github.com/Platane/snk">Platane/snk</a> — this shows once the workflow's <code>output</code> branch exists in your repo</sub>
+<sub>✨ Powered by <a href="https://github.com/Platane/snk">Platane/snk</a> — run the workflow to generate the <code>output</code> files/branch if the image doesn't appear</sub>
 
 </div>
 
@@ -101,7 +101,7 @@ side_quest: "Runs a YouTube channel for career tips"
 
 ## 🏆 Trophy Case
 
-<img src="https://github-profile-trophy.vercel.app/?username=ananyaashettyy&theme=radical&no-frame=true&row=1&column=6&margin-w=8"/>
+<img alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=ananyaashettyy&theme=radical&no-frame=true&row=1&column=6&margin-w=8"/>
 
 </div>
 
@@ -112,16 +112,16 @@ side_quest: "Runs a YouTube channel for career tips"
 ## 🌐 Let's Connect
 
 <a href="https://www.linkedin.com/in/ananyaashettyy" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://www.instagram.com/__.ananyashetty.__" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 <a href="https://x.com/ananyaashettyy" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  <img alt="Twitter/X" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 <a href="mailto:ananyashetty82987@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -130,4 +130,4 @@ side_quest: "Runs a YouTube channel for career tips"
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:6C63FF&height=100&section=footer" width="100%"/>
+<img alt="Footer capsule" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:6C63FF&height=100&section=footer" width="100%"/>
