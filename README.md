@@ -1,14 +1,10 @@
 <p align="center" style="position: relative; display: inline-block; text-align: center;">
   <img src="https://github.com/ananyaashettyy/ananyaashettyy/blob/main/animate.gif" width="100%" height="220px" />
-
 </p>
 
+<p align="center">Information Science Student | Full Stack Developer | Cloud & AI Enthusiast</p>
 
-<p align="center">Information Science Student | Full Stack Developer | AI Enthusiast</p>
-
-⚙️ I’m a tech explorer passionate about building full-stack and AI-driven applications that solve real-world problems.
-
-
+⚙️ I'm a tech explorer passionate about building full-stack, cloud-native, and AI-driven applications that solve real-world problems.
 🤝 Open to collaborations, internships, and innovative project ideas.
 
 ---
@@ -16,9 +12,8 @@
 💻 **Tech Stack:**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,fastapi,flutter,python,js,c,cpp,mongodb,mysql,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=python,react,nodejs,express,fastapi,js,mongodb,mysql,aws,azure,gcp,docker,kubernetes,terraform,git,github,vscode,linux" />
 </p>
-
 
 ---
 
@@ -32,7 +27,8 @@
 
 ---
 
- 🌍 **Connect with Me:**
+🌍 **Connect with Me:**
+
 <p align="center">
   <a href="https://www.linkedin.com/in/ananyaashettyy" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -47,4 +43,3 @@
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
