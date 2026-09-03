@@ -220,20 +220,11 @@ mission:
 
 <h1>🐍 CONTRIBUTION DATA FLOW</h1>
 
-<picture>
+<div align="center">
 
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ananyaashettyy/ananyaashettyy/main/output/github-contribution-grid-snake-dark.svg"/>
-
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ananyaashettyy/ananyaashettyy/main/output/github-contribution-grid-snake.svg"/>
-
-<img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ananyaashettyy/ananyaashettyy/main/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</picture>
+<img src="https://raw.githubusercontent.com/ananyaashettyy/ananyaashettyy/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%" />
 
 </div>
-
-<hr/>
-
 <div align="center">
 
 <h1>🏆 ACHIEVEMENTS</h1>
