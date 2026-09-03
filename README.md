@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=220&section=header&text=Hey,%20I'm%20Ananya%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Cloud%20%26%20AI%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=220&section=header&text=Hey%2C%20I%27m%20Ananya%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Cloud%20%26%20AI%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=650&lines=Building+full-stack+%2B+AI-driven+apps+%F0%9F%9A%80;Exploring+Agentic+AI+%26+AIOps+%F0%9F%A4%96;Cloud-native+%7C+DevOps+%7C+LangChain;Open+to+internships+%26+collabs+%E2%9C%A8" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=650&lines=Building%20full-stack%20%2B%20AI-driven%20apps%20%F0%9F%9A%80;Exploring%20Agentic%20AI%20%26%20AIOps%20%F0%9F%A4%96;Cloud-native%20%7C%20DevOps%20%7C%20LangChain;Open%20to%20internships%20%26%20collabs%20%E2%9C%A8" />
 </a>
 
 <br/>
@@ -13,7 +13,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&section=footer" width="100%"/>
+<br/>
 
 <table align="center" border="0" cellspacing="0" cellpadding="10">
 <tr>
@@ -27,7 +27,7 @@ role: "Full Stack Developer · Cloud/AI Enthusiast"
 currently_building: "AI-powered enterprise tools"
 learning: ["Agentic AI", "AIOps", "Cloud-Native Systems"]
 open_to: ["Internships", "Collabs", "Bold ideas"]
-side_quest: "Runs a YouTube channel for career tips 🎥"
+side_quest: "Runs a YouTube channel for career tips"
 ```
 
 **🔭 Currently working on:** AI-Powered IT Operations Platform
@@ -43,7 +43,7 @@ side_quest: "Runs a YouTube channel for career tips 🎥"
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=20&section=footer" width="100%"/>
+<br/>
 
 <div align="center">
 
@@ -67,13 +67,13 @@ side_quest: "Runs a YouTube channel for career tips 🎥"
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=20&section=footer" width="100%"/>
+<br/>
 
 <div align="center">
 
 ## 🔥 GitHub Activity
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ananyaashettyy&theme=radical&hide_border=true&background=0D1117" />
+<img src="https://streak-stats.demolab.com/?user=ananyaashettyy&theme=radical&hide_border=true&background=0D1117" />
 
 <br/>
 
@@ -85,13 +85,17 @@ side_quest: "Runs a YouTube channel for career tips 🎥"
 
 ## 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/ananyaashettyy/ananyaashettyy/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ananyaashettyy/ananyaashettyy/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ananyaashettyy/ananyaashettyy/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/ananyaashettyy/ananyaashettyy/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
 
-<sub>✨ Powered by <a href="https://github.com/Platane/snk">Platane/snk</a> — add the workflow to your profile repo to activate</sub>
+<sub>✨ Powered by <a href="https://github.com/Platane/snk">Platane/snk</a> — this shows once the workflow's <code>output</code> branch exists in your repo</sub>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=20&section=footer" width="100%"/>
+<br/>
 
 <div align="center">
 
@@ -101,7 +105,7 @@ side_quest: "Runs a YouTube channel for career tips 🎥"
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=20&section=footer" width="100%"/>
+<br/>
 
 <div align="center">
 
