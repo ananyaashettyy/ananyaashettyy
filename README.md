@@ -87,34 +87,6 @@ mission:
 
 <hr/>
 
-<div align="center">
-
-<h1>🌐 NETWORK • CLOUD • AI ECOSYSTEM</h1>
-
-</div>
-
-<pre>
-                         🤖 GENERATIVE AI
-                    LLMs • Agents • LangChain
-                              │
-                              ▼
-                       🧠 INTELLIGENCE
-                              │
-          ┌───────────────────┼───────────────────┐
-          │                   │                   │
-          ▼                   ▼                   ▼
-     🌐 NETWORKING         ☁️ CLOUD           ⚙️ DEVOPS
-     TCP/IP • DNS          AWS • Azure        Docker • K8s
-     HTTP • Routing        GCP • IaC          Terraform
-          │                   │                   │
-          └───────────────────┼───────────────────┘
-                              │
-                              ▼
-                        📊 AIOPS
-                  Monitoring • Automation
-</pre>
-
-<hr/>
 
 <div align="center">
 
