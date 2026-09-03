@@ -160,47 +160,6 @@ mission:
 
 <hr/>
 
-<div align="center">
-
-<h1>🚀 CURRENT MISSION</h1>
-
-<h2>🤖 AI-Powered IT Operations Platform</h2>
-
-</div>
-
-<pre>
-┌────────────┐
-│ Logs       │
-│ Metrics    │
-│ Events     │
-└─────┬──────┘
-      │
-      ▼
-┌─────────────────────┐
-│ AI ANALYSIS 🧠      │
-│ Anomaly Detection   │
-│ Intelligent Ops     │
-└──────────┬──────────┘
-           │
-           ▼
-┌─────────────────────┐
-│ AUTOMATION ⚙️       │
-│ Alerts • Actions    │
-└──────────┬──────────┘
-           │
-           ▼
-┌─────────────────────┐
-│ CLOUD SYSTEMS ☁️    │
-└─────────────────────┘
-</pre>
-
-<div align="center">
-
-<b>Python • FastAPI • React • MySQL • Monitoring • ML • Generative AI</b>
-
-</div>
-
-<hr/>
 
 <div align="center">
 
