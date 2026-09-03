@@ -138,7 +138,7 @@ mission:
 
 <br/><br/>
 
-<code>TCP/IP</code> • <code>DNS</code> • <code>HTTP/HTTPS</code> • <code>Routing</code> • <code>Networking Fundamentals</code>
+🌐 `TCP/IP` • 📡 `DNS` • 🔒 `HTTP/HTTPS` • 🛣️ `Routing` • 🕸️ `Networking Fundamentals`
 
 <br/><br/>
 
@@ -148,7 +148,7 @@ mission:
 
 <br/><br/>
 
-<code>Generative AI</code> • <code>LLMs</code> • <code>LangChain</code> • <code>Agentic AI</code> • <code>Prompt Engineering</code> • <code>AIOps</code>
+🤖 `Generative AI` • 🧠 `LLMs` • 🔗 `LangChain` • 🤖 `Agentic AI` • ✍️ `Prompt Engineering` • 📊 `AIOps`
 
 <br/><br/>
 
